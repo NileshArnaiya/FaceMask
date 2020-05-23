@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Face Mask Detect</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Face Mask</string>
+</resources>
